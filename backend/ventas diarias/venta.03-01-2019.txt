@@ -1,0 +1,71 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22219   /      MEGALODON    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+24057   /      LA CASA DE PAPEL TEMPORADA 1    /        /    1200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22122   /      GUERRA POR EL PLANETA DE LOS SIMIOS    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+22230   /      BUSCANDO    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+12228   /      MISION IMPOSIBLE: REPERCUCION    /    15993652    /    300 BsS
+12237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /    15993652    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21219   /      JEFE EN PAÐALES    /        /    600 BsS
+22219   /      MEGALODON    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22211   /      RASCACIELOS    /        /    600 BsS
+21258   /      MOWGLI: LA LEYENDA DE LA SELVA    /        /    600 BsS
+22231   /      CRIATURAS NOCTURNAS    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22208   /      UPGRADE    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+22224   /      ALPHA    /        /    600 BsS
+22187   /      RAMPAGE    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+21215   /      MOANA    /        /    600 BsS
+21234   /      EMOJI    /        /    600 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /        /    600 BsS
+22216   /      ANTMAN & WASP    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+21255   /      Christopher Robin    /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22216   /      ANTMAN & WASP    /        /    600 BsS
+22199   /      AVENGERS: INFINITY WAR    /        /    600 BsS
+
+TOTAL==>39300 BsS

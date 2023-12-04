@@ -132,7 +132,7 @@
 
 		public function gestorArchi($archivo){
 
-			$culito = split(',', $archivo);
+			$culito = explode(',', $archivo);
 
 			foreach ($culito as $row => $item) {
 				$ubicacion = "E:/xampp/htdocs/Blasterimport-master/Blaster/backend/views/media/peliculas/".$item;
@@ -147,6 +147,48 @@
 			}
 			
 			return $respuesta;
+		}
+
+		public function hacerInventarioModel($codigo, $cantidad){
+			$consulta = new Consulta();
+			
+			$sql2 = "SELECT nombrePelicula,cantidad  FROM peliculas WHERE codigo='".$codigo."' ";
+			$resultado2 = $consulta -> ver_registros($sql2);
+
+			
+			foreach ($resultado2 as $row => $item) {
+
+				$cantidadReal = $item['cantidad'] + $cantidad;
+				$comentario = "Se cambio la cantidad de ".$item['cantidad']." a la cantidad de ".$cantidadReal;
+				$fecha = date("d-m-Y");
+				$nombre = $item['nombrePelicula'];
+				$sql3 = "INSERT INTO reportes (id, codigo, nombre, comentario, fecha) VALUES ('Null','$codigo', '$nombre', '$comentario', '$fecha')";
+				$resultado3 = $consulta -> nuevo_registro($sql3);
+
+				$sql = "UPDATE peliculas SET cantidad= cantidad + $cantidad WHERE codigo='".$codigo."' ";
+			$resultado = $consulta -> actualizar_registro($sql);
+			}
+			
+			return $resultado;
+		}
+
+		public function vistaReportes(){
+			$consulta = new Consulta();
+			$sql = "SELECT * FROM reportes order by id DESC";
+			$resultado = $consulta -> ver_registros($sql);
+			return $resultado;
+		}
+		public function cantidadCambiarModel($cantidad, $codigo){
+			$consulta = new Consulta();
+			$sql = "UPDATE peliculas SET cantidad= '".$cantidad."' WHERE codigo='".$codigo."' ";
+			$resultado = $consulta -> actualizar_registro($sql);
+			return $resultado;
+		}
+		public function limpiarModel($tabla){
+			$consulta = new Consulta();
+			$sql = "UPDATE $tabla SET cantidad = 0 WHERE tipo='DVD' ";
+			$resultado = $consulta -> actualizar_registro($sql);
+			return $resultado;
 		}
 	}
 

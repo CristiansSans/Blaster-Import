@@ -75,6 +75,7 @@
 				</div>
 				<div class="categories">
 					<button class="todas">Todas</button>
+					<button class="down">Descargas</button>
 			<?php 
 				$resultado= new gestorGenerosController;
 				$resultado->vistaGeneros();

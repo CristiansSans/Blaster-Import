@@ -546,3 +546,19 @@ body{
     left: 5%;
     display: none;
 }
+
+.serieDown{
+    width: 50%;
+    background-color: white;
+    position: fixed;
+    top:20%;
+    left: 25%;
+    padding: 30px;
+    border: 5px solid black;
+    max-height: 500px;
+    overflow-y: scroll;
+    border-radius: 0 0 15px 15px;
+}
+.trSeries{
+    
+}

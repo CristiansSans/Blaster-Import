@@ -12,8 +12,8 @@ include 'cabezera.php';
  
   <div class="col-sm-4 tablas">
 
-    <input class="inputVenta inputCodig" type="text"  value="" autofocus placeholder="Codigo...">
-  <table class="table">
+    <input  id="myInput1" oninput="w3.filterHTML('#id01', '.item', this.value)" class="inputVenta inputCodig" type="text"  value="" autofocus placeholder="Codigo...">
+  <table id="id01" class="table">
     <thead class="thead-dark" style="">
       <tr style="text-align: center;">
         <th>Codigo</th>

@@ -11,7 +11,7 @@ include 'cabezera.php';
           <div style="display:inline-block; width:100%;" class="wrap-login100 agregarPeliculaTwo">
             <form class="login100-form validate-form editPeli" method="post" id="formIngreso" enctype="multipart/form-data">
               <span class="login100-form-title ">
-                Editar Pelicula
+                
               </span>
               
               <div style="width:33%;display:inline-block;" class="wrap-input100 validate-input">
@@ -147,7 +147,9 @@ include 'cabezera.php';
 
 <div class="container-fluid">
 	<center><h1>Editar Peliculas</h1></center>
-  <input id="myInput1" oninput="w3.filterHTML('#id01', '.item', this.value)" placeholder="Buscar.."><span class="fa fa-search iconoBusqueda"></span>
+  <div class="row">
+    <input class="col-sm-9" style="margin-left: 15px;" id="myInput1" oninput="w3.filterHTML('#id01', '.item', this.value)" placeholder="Buscar.."><span class="fa fa-search iconoBusqueda"></span><button class="col-sm-2 limpiar" style="margin-left: 15px;">Borrar Cantidades</button>
+  </div>
 	<table id="id01" class="table">
     <thead class="thead-dark">
       <tr style="text-align: center;">

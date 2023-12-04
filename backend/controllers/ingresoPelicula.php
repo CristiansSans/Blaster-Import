@@ -79,11 +79,11 @@ class ingresopeliculaController
 	         
 	         
 
-	         if ($_FILES['pelicula']['tmp_name'] != '') {
+	         if ($_FILES['pelicula[]']['tmp_name'] != '') {
 	         		$cantidadSubidas = $_POST['cantidadRevision'];
 	         		
-	         		for ($i=0; $i < $cantidadSubidas ; $i++) { 
-	         			$origenPelicula = $_FILES['pelicula']['tmp_name'][$i];
+	         	for ($i=0; $i < $cantidadSubidas ; $i++) { 
+	         		$origenPelicula = $_FILES['pelicula']['tmp_name'][$i];
 			        $destinoPelicula = 'views/media/peliculas/'.$_FILES['pelicula']['name'][$i];
 			        move_uploaded_file($origenPelicula, $destinoPelicula);
 			        if ($i == 0) {
@@ -95,13 +95,29 @@ class ingresopeliculaController
 		        		$peliculaSize = $peliculaSize.",".$_FILES['pelicula']['size'][$i];
 			        }
 			        
-	         		}
+	         	}
 		         	
 		       
 	         }
-	         else{
-	         	$pelicula = $_POST['peliculaNombre'];
-	         	$peliculaSize = $_POST['peliculaPeso'];
+	         if ($_FILES['pelicula']['tmp_name'] != '') {
+	         		$cantidadSubidas = $_POST['cantidadRevision'];
+	         		
+	         		for ($i=0; $i < $cantidadSubidas ; $i++) { 
+	         			$origenPelicula = $_FILES['pelicula']['tmp_name'][$i];
+				        $destinoPelicula = 'views/media/peliculas/'.$_FILES['pelicula']['name'][$i];
+				        move_uploaded_file($origenPelicula, $destinoPelicula);
+				        if ($i == 0) {
+				        	$pelicula = $_FILES['pelicula']['name'][$i];
+			        		$peliculaSize = $_FILES['pelicula']['size'][$i];
+				        }
+				        else{
+				        	$pelicula = $pelicula.",".$_FILES['pelicula']['name'][$i];
+			        		$peliculaSize = $peliculaSize.",".$_FILES['pelicula']['size'][$i];
+				        }
+			        
+	         		}
+		         	
+		       
 	         }
 	         $datosController = array("codigo"=>$codigo,
 									"nombrePelicula"=>$nombrePelicula,
@@ -116,7 +132,7 @@ class ingresopeliculaController
 									"trailer"=> $trailer,
 									"pelicula"=> $pelicula,
 									"fecha"=> $fecha,
-									"peso"=> $peliculaSize,
+									"peso"=> $peliculaSize
 								);
 	        $resultado = new IngresoPeliculaModel();
 				

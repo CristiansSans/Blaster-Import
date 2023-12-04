@@ -29,18 +29,18 @@
 <div id="defaultOpen"></div>
 
 <div class="hiddenForm">
-	<button class="botonesDescarga">Inicio</button>
-	<script>
+	<a href="../../home" ><button class="botonesDescarga">Inicio</button></a>
+	<!-- <script>
 		 var tiempo = setTimeout(function(){
-                    window.location = "http://192.168.250.3/Blasterimport-master/blaster"
-                }, 180000)
-	</script>	
+                    window.location = "http://186.92.155.132/Blasterimport-master1/blaster"
+                }, 180000000000000)
+	</script> -->	
 
 	
 	<a href="https://www.localhost/">gugol</a>
 </div>
 <div onload="pelis()" style="display: block;" class="clienteOcultar row">
-	<button class="botonesDescarga">Inicio</button>
+	<a href="../../home" ><button class="botonesDescarga">Inicio</button></a>
 	<div id="modalNota" onclick="off()">
 	  <div id="notaText">
 		<h2>¡LEER CON ATENCION!</h2>
@@ -117,36 +117,115 @@ function pelis(){
                     }) 
                 }else{
                     var datos = Object.values(data);
-                    console.log(data)
                     var pelis = datos[0]
                     var nombreCliente = data[1]
-                    console.log(nombreCliente)
+                   
                     $(".hiddenForm").hide('slow')
                     $(".clienteOcultar").show()
-// var mostrar = `
-// <div class="cardDescarga col s2">
-//   <img src="backend/views/media/caratulas/${datos[i].caratula}" alt="John" style="width:100%; height: 35vh;">
-//   <h6>${datos[i].nombrePelicula}</h6>
-//   <p class="title">Peso: ${datos[i].peso.substr(0 ,4)} GB</p>
-  
-//   <form method="post">
-//     <input type="hidden" name="peliDescarga" value="${datos[i].pelicula}">
-//     <button type="submit"  class="botondownloadDos" onclick = "loader(${tiempo})">Descargar</button>
-//   </form> 
-// </div>`
+
                     for (var i = 0; i < pelis.length; i++) {
-                        var mostrar = `
-                        <a onclick="flecha()" href="../../backend/views/media/peliculas/${pelis[i].pelicula}" download>
+                        
+                        if (pelis[i].genero == "Series" || pelis[i].genero == "Anime") {
+                            var mostrar = `
+                        <a class="seriesD">
+
                             <div class="cardDescarga col s2">
+                              <input type="text" value="${pelis[i].nombrePelicula}" hidden/>
                               <img src="../../backend/views/media/caratulas/${pelis[i].caratula}" alt="John" style="width:100%; height: 35vh;">
                               <h6>${pelis[i].nombrePelicula}</h6>
                               <p class="title">Peso: ${pelis[i].peso.substr(0 ,4)} GB</p> 
                             </div>
+                        </a>
+                        
+                        `
+
+
+
+                        }
+
+                        else{
+                            var mostrar = `
+                        <a onclick="flecha()" href="../../backend/views/media/peliculas/${pelis[i].pelicula}" download>
+                            <div class="cardDescarga col s2">
+
+                              <img src="../../backend/views/media/caratulas/${pelis[i].caratula}" alt="John" style="width:100%; height: 35vh;">
+                              <h6>${pelis[i].nombrePelicula} fgfgf</h6>
+                              <p class="title">Peso: ${pelis[i].peso.substr(0,1) + "." +pelis[i].peso.substr(2,2)} GB</p> 
+                            </div>
                         </a>`
+                        }
+                        
 
                         $(".clienteOcultar").append(mostrar)
 
+
+
                     }
+                    var modal = `<div class="serieDown" hidden>
+                        <span style="float:right;font-size:30px;" class="ekis fa fa-times"></span>
+                         <table class="table">
+                            <thead>
+                              <tr style="text-align: center;">
+                                <th>Nombre</th>
+                                <th>Peso</th>
+                              </tr>
+                            </thead>
+                            <tbody class="tbodySeries">
+                                
+                            </tbody>
+                          </table>
+                        </div>`
+                    $(".clienteOcultar").append(modal)
+
+                    $('.cardDescarga').on('click',function(){
+                        var nombrePeliculaa = $(this).children().val()
+                        
+                        var datos2 = {"seriesDescargas":nombrePeliculaa}
+                        $.ajax({
+                            type: "POST",
+                            url: "../ajax/ficcion.php",
+                            data: datos2,
+                        })
+                        .then(function(data){
+                           $('.trSeries').remove()
+                            var datos = Object.values(data);
+                            
+                            var arreglo = datos[0].pelicula.split(",")
+                            var arreglo2 = datos[0].peso.split(",")
+
+                            for (var c = 0; c < arreglo.length; c++) {
+                                if (arreglo2 == 0) {
+                                    var pesoSerie = arreglo2[c]
+                                }
+                                else{
+                                    var pesoSerie = arreglo2[c].substr(0,1) + "." +pelis[i].peso.substr(2,2)
+                                }
+                                var mostrar2 = ` 
+                                <tr class="trSeries">
+                                    <td><a  href="../../backend/views/media/peliculas/${arreglo[c]}" download>${arreglo[c]}</a></td>
+                                    <td><a  href="../../backend/views/media/peliculas/${arreglo[c]}" download> ${pesoSerie} GB</a></td>     
+                                </tr>`
+                                $(".tbodySeries").append(mostrar2)
+
+                        }
+                        })
+
+
+                    })
+
+                    $(".trSeries").on("click", function(){
+                        $(this).css("background-color" , "#0b2642")
+                        $(this).css("color" , "#fff")
+                        
+                    })
+                    $(".ekis").on("click", function(){
+                        $(".serieDown").hide();
+                    })
+
+                    $(".seriesD").on("click", function(){
+                        $(".serieDown").show();
+
+                    })
                     for (var i = 0; i < nombreCliente.length; i++) {
                         console.log(nombreCliente[i].nombre)
                 var mostrarNombre=`<h4 style="color: white;text-align: center;">Hola ${nombreCliente[i].nombre} estas son tus peliculas compradas!</h4>`

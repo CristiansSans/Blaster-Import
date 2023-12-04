@@ -1,0 +1,77 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+22213   /      SICARIO 2: DIA DEL SOLDADO    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21253   /      JOVENES TITANES    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /        /    600 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22214   /      LA PURGA 4: EL INICIO    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+22225   /      LA MONJA    /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+22240   /      ESCALOSFRIOS 2    /        /    600 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /        /    600 BsS
+22194   /      SEXY POR ACCIDENTE    /        /    600 BsS
+24057   /      LA CASA DE PAPEL TEMPORADA 1    /        /    1200 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22240   /      ESCALOSFRIOS 2    /        /    600 BsS
+22226   /      EL JUSTICIERO 2    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+12225   /      LA MONJA    /    16849394    /    300 BsS
+12199   /      AVENGERS INFINITY WAR    /    16849394    /    300 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22201   /      DEADPOOL 2    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+12237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /    9654198    /    300 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22222   /      MI EX ES UN ESPIA    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22203   /      TE ATRAPE    /        /    600 BsS
+22191   /      VERDAD O RETO    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22219   /      MEGALODON    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+20973   /      CAPITAN AMERICA CIVIL WAR    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22225   /      LA MONJA    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22211   /      RASCACIELOS    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22201   /      DEADPOOL 2    /        /    600 BsS
+22173   /      MAZE RUNNER 3: LA CURA MORTAL    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+22229   /      EL DEPREDADOR    /        /    600 BsS
+22230   /      BUSCANDO    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21258   /      MOWGLI: LA LEYENDA DE LA SELVA    /        /    600 BsS
+
+TOTAL==>42900 BsS

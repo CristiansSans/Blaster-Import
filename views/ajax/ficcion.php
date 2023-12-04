@@ -159,6 +159,22 @@
 				header('Content-Type: application/json');
 				echo json_encode($respuesta);
 		}
+		public function filtroDescarga()
+		{
+			$card = new gestorPeliculasController();
+			$respuesta = $card -> filtroDescargaController($_POST['tipo']);
+			
+				header('Content-Type: application/json');
+				echo json_encode($respuesta);
+		}
+		public function seriesDescargas()
+		{
+			$card = new gestorPeliculasController();
+			$respuesta = $card -> seriesDescargasController($_POST['seriesDescargas']);
+			
+				header('Content-Type: application/json');
+				echo json_encode($respuesta);
+		}
 
 		
 		
@@ -203,7 +219,14 @@
 	}elseif (isset($_POST['cedulaDescargas'])) {
 		$ajax = new Ajax();
 		$ajax -> ingresoDescarga();
+	}elseif (isset($_POST['tipo'])) {
+		$ajax = new Ajax();
+		$ajax -> filtroDescarga();
+	}elseif (isset($_POST['seriesDescargas'])) {
+		$ajax = new Ajax();
+		$ajax -> seriesDescargas();
 	}
+
 
 
  ?>

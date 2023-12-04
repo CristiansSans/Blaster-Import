@@ -16,7 +16,7 @@ class ingresoClienteModel{
 
 		$sql="INSERT INTO $tabla ( nombre, cedula, telefono, correo, direccion) values ( '$nombre', '$cedula', '$telefono', '$correo', '$direccion')";
 		$resultado = $consulta -> nuevo_registro($sql);
-		$sql2 = "CREATE TABLE ".$cedula."Cliente ( codigo  int(50), nombrePelicula varchar(200), genero varchar(200), caratula varchar(250), pelicula varchar(50000), peso varchar(250))";
+		$sql2 = "CREATE TABLE ".$cedula."Cliente ( codigo  int(50), nombrePelicula varchar(200), genero varchar(200), caratula varchar(250), pelicula varchar(250), peso varchar(250))";
 		$resultado2 = $consulta -> nuevo_registro($sql2);
 		
 		return $resultado;

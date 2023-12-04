@@ -100,6 +100,16 @@
 			$resultado = gestorPeliculasModel::cardShowModel("peliculas", $codigoCard);
 			return $resultado;
 		}
+		public function filtroDescargaController($tipo)
+		{
+			$resultado = gestorPeliculasModel::filtroDescargaModel("peliculas", $tipo);
+			return $resultado;
+		}
+		public function seriesDescargasController($nombre)
+		{
+			$resultado = gestorPeliculasModel::seriesDescargasModel("peliculas", $nombre);
+			return $resultado;
+		}
 
 
 

@@ -538,6 +538,22 @@ iframe {
 .wrap-login100-form-btn:hover .login100-form-bgbtn {
   left: 0;
 }
+.limpiar{
+  background: #212529;
+  color: #fff;
+  padding: 5px;
+  height: 70px;
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.limpiar:hover{
+  background-color: transparent;
+  color: #212529;
+  border: 2px solid #212529;
+}
+
 
 
 /*------------------------------------------------------------------
@@ -630,6 +646,25 @@ box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
   
   padding-top: 0px;
 }
+
+.reportes{
+  height: 500px;
+  max-height: 500px;
+}
+
+.inventarioPeliculaTwo{
+  width: 40%;
+  padding: 15px;
+  position: absolute;
+  top: 2%;
+  -webkit-box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
+box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
+
+}
+.inputinvent {
+  margin-left: 35px;
+}
 .cambioPeliculaTwo{
   width: 60%;
   margin-top: -150px;
@@ -684,7 +719,7 @@ margin: 0;
 
 .inputVenta{
   margin-bottom: 5px;
-  width: 30%;
+  width: 30% !important;
   padding:10px;
   font-size: 30px;
 -webkit-box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
@@ -740,11 +775,14 @@ box-shadow: 0px 5px 39px -10px rgba(0,0,0,0.75);
 }
 .iconoBusqueda{
   position: absolute;
-  right: 1%;
+  right: 25%;
   font-size: 30px;
   
   padding: 19px;
   
+}
+.limpiar{
+
 }
 .modalsGene{
  display: none;

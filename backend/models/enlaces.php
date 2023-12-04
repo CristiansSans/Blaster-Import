@@ -19,6 +19,7 @@ class EnlacesModels{
 			$enlaces == "cerrarDia" ||
 			$enlaces == "cambioPelicula" ||
 			$enlaces == "anadirPeliculaCliente" ||
+			$enlaces == "Inventario" ||
 			$enlaces == "home"){
 
 			$module = "views/modules/".$enlaces.".php";

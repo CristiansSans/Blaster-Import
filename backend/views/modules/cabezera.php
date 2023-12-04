@@ -18,7 +18,8 @@
           <a class="dropdown-item" href="agregarPelicula">Agregar pelicula</a>
           <a class="dropdown-item" href="editarPeliculas">Editar Peliculas</a>
           <a class="dropdown-item" href="cambioPelicula">Cambios</a>
-          <a class="dropdown-item" href="cambioPelicula">Hacer Inventario</a>
+          <a class="dropdown-item" href="Inventario">Hacer Inventario</a>
+
         </div>
       </li><li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

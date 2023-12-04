@@ -90,7 +90,7 @@ class ingresoClienteController
 	}
 
 	public function gestorClienteIngresoController($codigo, $cedula){
-		$codigos = split(',', $codigo);
+		$codigos = explode(',', $codigo);
 		foreach ($codigos as $row => $item) {
 			$resultado = ingresoclienteModel::gestorClienteIngresosModel($item );foreach ($resultado as $row => $item) {
 					$datosController = array("codigo"=>$item['codigo'],

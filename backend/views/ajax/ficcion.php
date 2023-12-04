@@ -201,6 +201,34 @@
 
 			echo json_encode($respuesta);
 		}
+
+		public function hacerInventario()
+		{
+			$codigo = new gestorPeliculasController();
+			$respuesta = $codigo -> hacerInventario($_POST['codigoInventario'],$_POST['cantidadInventario']);
+
+			header('Content-Type: application/json');
+
+			echo json_encode($respuesta);
+		}
+		public function cantidadCambiar()
+		{
+			$codigo = new gestorPeliculasController();
+			$respuesta = $codigo -> cantidadCambiarController($_POST['cantidadCambiar'],$_POST['codigoCantidad']);
+
+			header('Content-Type: application/json');
+
+			echo json_encode($respuesta);
+		}
+		public function limpiar()
+		{
+			$codigo = new gestorPeliculasController();
+			$respuesta = $codigo -> limpiarController();
+
+			header('Content-Type: application/json');
+
+			echo json_encode($respuesta);
+		}
 	
 		
 	}
@@ -259,6 +287,15 @@
 	}elseif (isset($_POST['cedulaVieja'])) {
 		$ajax = new Ajax();
 		$ajax -> gestorClienteEditarEditado();
+	}elseif (isset($_POST['codigoInventario'])) {
+		$ajax = new Ajax();
+		$ajax -> hacerInventario();
+	}elseif (isset($_POST['cantidadCambiar'])) {
+		$ajax = new Ajax();
+		$ajax -> cantidadCambiar();
+	}elseif (isset($_POST['limpiar'])) {
+		$ajax = new Ajax();
+		$ajax -> limpiar();
 	}
 
 

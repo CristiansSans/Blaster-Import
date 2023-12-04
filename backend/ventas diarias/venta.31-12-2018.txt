@@ -1,0 +1,15 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+22217   /      MENTES PODEROSAS    /        /    600 BsS
+12231   /      CRIATURAS NOCTURNAS    /    25448664    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22229   /      EL DEPREDADOR    /        /    600 BsS
+22199   /      AVENGERS: INFINITY WAR    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+
+TOTAL==>6300 BsS

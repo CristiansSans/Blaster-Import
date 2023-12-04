@@ -1,0 +1,57 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+22242   /      A CIEGAS     /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /        /    600 BsS
+21258   /      MOWGLI: LA LEYENDA DE LA SELVA    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+22230   /      BUSCANDO    /        /    600 BsS
+22234   /      PRIMER HOMBRE EN LA LUNA    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+12243   /      AMANECER OSCURO    /    12331305    /    300 BsS
+12242   /      A CIEGAS    /    12331305    /    300 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+22232   /      QUIEN MATO A LOS PUPPETS?    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+22229   /      EL DEPREDADOR    /        /    600 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /        /    600 BsS
+22230   /      BUSCANDO    /        /    600 BsS
+22231   /      CRIATURAS NOCTURNAS    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22214   /      LA PURGA 4: EL INICIO    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22226   /      EL JUSTICIERO 2    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+22240   /      ESCALOSFRIOS 2    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22211   /      RASCACIELOS    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22201   /      DEADPOOL 2    /        /    600 BsS
+22219   /      MEGALODON    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+
+TOTAL==>31200 BsS

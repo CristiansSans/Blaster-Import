@@ -54,11 +54,11 @@
           var datos = Object.values(data);
           
           if (datos[0].peso) {
-            if (datos[0].cantidad == 0) {
+            if (datos[0].cantidad <= 0) {
                 var mostrar= `<div id="${datos[0].codigo}" class="col l4 cardos tabcontent" style="padding: 0;" onclick="on('${datos[0].trailer}')">
                 <img class="caratula" src="backend/views/media/caratulas/${datos[0].caratula}" alt="">
 
-                <p> <strong>${datos[0].nombrePelicula}</strong>  <br> <b>Genero:</b> ${datos[0].genero} &nbsp&nbsp&nbsp <b>Precio:</b> ${datos[0].precioTipo} Bs.S &nbsp&nbsp&nbsp <br> <b>Cantidad:</b> Por pedido &nbsp&nbsp&nbsp <b>Peso:</b> ${datos[0].peso.substr(0 ,4)} &nbsp&nbsp&nbsp <b>Tipo:</b>${datos[0].tipo} </p>
+                <p> <strong>${datos[0].nombrePelicula}</strong>  <br> <b>Genero:</b> ${datos[0].genero} &nbsp&nbsp&nbsp <b>Precio:</b> ${datos[0].precioTipo} Bs.S &nbsp&nbsp&nbsp <br> <b>Cantidad:</b> Por Taquilla &nbsp&nbsp&nbsp <b>Peso:</b> ${datos[0].peso.substr(0 ,4)} &nbsp&nbsp&nbsp <b>Tipo:</b>${datos[0].tipo} </p>
                 <button class="trailer"><h4>Ver trailer&nbsp&nbsp&nbsp<i class="fa fa-play-circle"></i></h4></button>
               </div>`
 
@@ -197,7 +197,7 @@ function timerTrailer(){
       trailerSolito();
    } 
 
- }, 300000);
+ }, 10000);
 }
 
 
@@ -211,6 +211,10 @@ document.body.onclick = function() {
 var trailers = 0;
 var validation = 0;
 function trailerSolito(){
+
+  if (validation == 2) {
+    location.reload()
+  }
   
   if (document.getElementsByClassName("trailerContenido")[0].style.display == "block") {
     var todos = "trailer"

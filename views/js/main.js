@@ -117,7 +117,7 @@
     
     $('.tab').on('scroll', function(){
         if ($('.activoLista').val()== "true") {
-        console.log($('.activoLista').val())
+        
         var windowHeight = parseInt($(this).scrollTop())
         var height = parseInt($(this).outerHeight())
         var height2 =   $(this).prop('scrollHeight')
@@ -226,6 +226,70 @@
             
                 
         var mostrar4 = `<input class="input" hidden value="${datos[i].genero}">`
+        var mostrar3= `<a class="carousel-item" onclick="openCity(event, '${datos[i].codigo}')" ><img src="backend/views/media/caratulas/${datos[i].caratula}" alt=""></a>`
+
+       
+        
+        $(".tabButt").eq(i).append(mostrar2)
+        $("#carru").append(mostrar3)
+        
+        $("#defaultOpen").click()
+        $('.carousel').carousel();
+            }
+
+        $('.antiguoGenero').show();
+        $('.alfabeticoGenero').show();
+        $('.nuevasGenero').show();
+
+        $('.antiguoGenero').append(mostrar4);
+        $('.alfabeticoGenero').append(mostrar4);
+        $('.nuevasGenero').append(mostrar4);
+                    
+        })
+        .fail(function(data){
+                console.log(data);
+        })
+         
+    });
+
+    $('.down').on('click', function(e){
+        e.preventDefault();
+
+       
+        
+        var dataString = $(this).text();
+        $('.tab').attr('id', dataString);
+        var datos = {"tipo":dataString};
+        $.ajax({
+                type: "POST",
+                url: "views/ajax/ficcion.php",
+                data: datos,
+            })
+        .then(function(data){
+            var datos = Object.values(data);
+            $('.cardos').remove();
+            $('.tablinks').remove();
+            $('.carousel-item').remove();
+            
+            $('.alfabetico').remove();
+            $('.antiguas').remove();
+            $('.nuevas').remove();
+
+            $('.input').remove();
+
+            var g =0;
+            for (var i = 0; i < datos.length; i++) {
+                if (g==0) { 
+                    g++;
+                var mostrar2=` 
+                <button class="tablinks"  onclick="openCity(event, '${datos[i].codigo}' ,'${datos[i].codigo}' , '${i}') " id="defaultOpen">${datos[i].codigo} &nbsp|&nbsp  ${datos[i].nombrePelicula} <input hidden type="text" value="${i}"></button>`
+            } else {
+                var mostrar2=` 
+                <button class="tablinks"  onclick="openCity(event, '${datos[i].codigo}' ,'${datos[i].codigo}', '${i}')">${datos[i].codigo} &nbsp|&nbsp  ${datos[i].nombrePelicula} <input hidden type="text" value="${i}"></button>`
+            }
+            
+                
+        var mostrar4 = `<input class="input" hidden value="${datos[i].tipo}">`
         var mostrar3= `<a class="carousel-item" onclick="openCity(event, '${datos[i].codigo}')" ><img src="backend/views/media/caratulas/${datos[i].caratula}" alt=""></a>`
 
        
@@ -618,9 +682,7 @@
 $(".cardos").on("click", function(){
     $(".miDetector").val("epa")
 })
-    $('.botonesDescarga').on('click', function(){
-        window.location = "http://192.168.250.3/Blasterimport-master/blaster"
-    })
+    
   
 
 

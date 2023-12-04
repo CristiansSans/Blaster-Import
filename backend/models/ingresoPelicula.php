@@ -25,11 +25,10 @@ class IngresoPeliculaModel{
 		$pelicula = $datosModel["pelicula"];
 		$fecha = $datosModel["fecha"];
 		$peliculaSize = $datosModel['peso'];
-		$peliculaSizeGb = $peliculaSize / 1000000000;
 		$tabla = 'peliculas';
 
 
-		$sql="INSERT INTO $tabla ( codigo, nombrePelicula, genero, cantidad, tipo, caratula, trailer, pelicula, fecha, peso, cinavia,lenguaje,clasificacion,discos) values ( '$codigo', '$nombrePelicula', '$genero', '$cantidad', '$tipo', '$caratula', '$trailer', '$pelicula', '$fecha', '$peliculaSizeGb', '$cinavia', '$lenguaje', '$clasificacion', '$discos')";
+		$sql="INSERT INTO $tabla ( codigo, nombrePelicula, genero, cantidad, tipo, caratula, trailer, pelicula, fecha, peso, cinavia,lenguaje,clasificacion,discos) values ( '$codigo', '$nombrePelicula', '$genero', '$cantidad', '$tipo', '$caratula', '$trailer', '$pelicula', '$fecha', '$peliculaSize', '$cinavia', '$lenguaje', '$clasificacion', '$discos')";
 		
 		$resultado = $consulta -> nuevo_registro($sql);
 		

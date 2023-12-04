@@ -8,11 +8,11 @@
 			foreach ($resultado as $row => $item) {
 				
 				?>
-				<tr class="item">
+				<tr class="item" id="<?php echo $row ?>">
 			      	<td style="text-align: center;"><?php echo $item['codigo'] ?></td>
 			        <td style="text-align: center;"><?php echo $item['nombrePelicula'] ?></td>
 			        <td style="text-align: center;"><?php echo $item['genero'] ?></td>
-			        <td style="text-align: center;"><?php echo $item['cantidad'] ?></td>
+			        <td style="text-align: center;"><input class="inputCantidad <?php echo $row ?>" type="text" style="text-align: center;" value="<?php echo $item['cantidad'] ?>"></td>
 			        <td style="text-align: center;"><?php echo $item['discos'] ?></td>
 			        <td style="text-align: center;"><?php echo $item['tipo'] ?></td>
 			        <td style="text-align: center;"><?php echo $item['cinavia'] ?></td>
@@ -81,7 +81,7 @@ $texto2 = $texto2 . PHP_EOL .$texto;
 			$resultado = gestorPeliculasModel::gestorPeliculasVentas("peliculas");
 			foreach ($resultado as $row => $item) {
 				?>
-				<tr  class="peliculasVentas <?php echo $item['codigo'] ?>">
+				<tr  class="item peliculasVentas <?php echo $item['codigo'] ?>">
 			      	<td style="text-align: center;"><input hidden type="text" value="<?php echo $item['codigo'] ?>"><?php echo $item['codigo'] ?></td>
 			        <td style="text-align: center;"><input hidden type="text" value="<?php echo $item['nombrePelicula'] ?>"><?php echo $item['nombrePelicula'] ?></td>
 			        <td style="text-align: center;"><input hidden type="text" value="<?php echo $item['cantidad'] ?>"><?php echo $item['cantidad'] ?></td>
@@ -402,5 +402,53 @@ $texto2 = $texto2 . PHP_EOL .$texto;
 
 			return $resultado;
 		}
+
+		public function hacerInventario($codigo , $cantidad){
+
+			$inspector = true;		
+				$conect=mysqli_connect("localhost","root","","blaster") or die("Error: ".mysqli_error());
+				
+				$valid = mysqli_query($conect,"SELECT codigo FROM peliculas WHERE codigo='".$codigo."'");
+					if ( mysqli_num_rows($valid)==0) {
+								$inspector = false;
+								$resultado2 = "ok";
+								return $resultado2;
+											
+					}
+			
+
+			if (isset($inspector) && $inspector == true) {
+				$resultado = gestorPeliculasModel::hacerInventarioModel($codigo , $cantidad);
+
+			return $resultado;
+			}
+			
+		}
+
+		public function vistaReporte(){
+			$resultado = gestorPeliculasModel::vistaReportes();
+			foreach ($resultado as $row => $item) {
+				?>
+				<tr  class="peliculasVentas">
+			      	<td style="text-align: center;"><?php echo $item['codigo'] ?></td>
+			        <td style="text-align: center;"><?php echo $item['nombre'] ?></td>
+			        <td style="text-align: center;"><?php echo $item['comentario'] ?></td>
+			        <td style="text-align: center;"><?php echo $item['fecha'] ?></td>
+			    </tr>	
+				<?php
+				}
+		}
+		public function cantidadCambiarController($cantidad,$codigo){
+			$resultado = gestorPeliculasModel::cantidadCambiarModel($cantidad,$codigo);
+
+			return $resultado;
+		}
+		public function limpiarController(){
+			$resultado = gestorPeliculasModel::limpiarModel('peliculas');
+
+			return $resultado;
+		}
+
+
 	}	
  ?>

@@ -1,0 +1,37 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /        /    600 BsS
+22219   /      MEGALODON    /        /    600 BsS
+20973   /      CAPITAN AMERICA CIVIL WAR    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22244   /      HELL FEST    /        /    600 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22244   /      HELL FEST    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+21254   /      LOS INCREIBLES 2    /        /    600 BsS
+22244   /      HELL FEST    /        /    600 BsS
+21252   /      HOTEL TRANSILVANIA 3    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /        /    600 BsS
+22197   /      HOMBRE AL AGUA    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+
+TOTAL==>19500 BsS

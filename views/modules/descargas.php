@@ -2,7 +2,7 @@
 <div id="defaultOpen"></div>
 
 <div class="hiddenForm">
-	<button class="botonesDescarga">Inicio</button>
+	<a href="home" ><button class="botonesDescarga">Inicio</button></a>
 	<script>
 		 var tiempo = setTimeout(function(){
                     window.location = "http://192.168.250.3/Blasterimport-master/blaster"

@@ -323,9 +323,9 @@
             $(".inputVent").val(total)
 
             $(".eliminarVent").on("click", function(){
-    $(this).parent().remove()
+                $(this).parent().remove()
 
-})
+            })
            }
 
 
@@ -669,10 +669,10 @@
             .then((willDelete) => {
               if (willDelete) {
                 $.ajax({
-            type: "POST",
-            url: "views/ajax/ficcion.php",
-            data: datos,
-        })
+                    type: "POST",
+                    url: "views/ajax/ficcion.php",
+                    data: datos,
+                })
 
         .then(function(data){
             if (data == "ok") {
@@ -729,6 +729,9 @@
                     $(".thisHidden").hide()
                     $(".cambioOculto").show()
                     $('.inputCambioDos').focus();
+                    $('.inputVenta').val(1);
+                    console.log($('.inputVenta').val(1))
+                    $('.inputVenta').val()
                 }
             })
             .fail(function(data) {
@@ -780,6 +783,58 @@
             
         }
     })
+
+     $(".inputInventario").keypress(function(e) {
+
+        var keycode = (e.keyCode ? e.keyCode : e.which);
+        if (keycode == '13') {
+            $(".inputInventarioDos").focus()
+           
+          
+            
+        }
+    })
+
+      $(".inputInventarioDos").keypress(function(e) {      
+        var keycode = (e.keyCode ? e.keyCode : e.which);
+
+        if (keycode == '13') {
+            
+            var cantidad = $(this).val()
+            var code = $(".inputInventario").val()
+            const datos = {"codigoInventario":code,"cantidadInventario":cantidad}
+            $.ajax({
+                type: "POST",
+                url: "views/ajax/ficcion.php",
+                data: datos,
+            })
+            .then(function(data){
+                if (data == true) {
+                   $(".inputInventario").val("")
+                    $(".inputInventarioDos").val("")
+                    $(".inputInventario").focus()
+                    location.reload()
+                }
+                else{
+                     swal({
+                        title: "Error!",
+                        text: "El codigo no existe",
+                        icon: "error",
+                    })
+                    .then((result) => {
+                        if (result) {
+                            window.location = "Inventario"
+                        }else{
+                            window.location = "Inventario"
+                        }
+                    })
+                }
+                
+            })
+            
+        }
+    })
+     
 //aquiii
      $(".editarClientePelicula").on('click',function(e) {      
 
@@ -963,7 +1018,8 @@
                         }else{
                             window.location = "editarCliente"
                         }
-                    })}
+                    })
+                }
                 })
             })
         })
@@ -982,6 +1038,93 @@
             $('.este').hide('slow');
         })
     })
+    var contador = 0
+    $('.inputCantidad').keypress(function(e){
+        var keycode = (e.keyCode ? e.keyCode : e.which);
+        
+        if (contador == 0) {
+            $(this).val("")
+            contador = 1
+        }
+        if (keycode == '13'){
+            contador = 0
+            var cantidadCambiar = $(this).val()
+            var codigoCantidad = $(this).parent().prev().prev().prev().text()
+            const datos= {"cantidadCambiar":cantidadCambiar,"codigoCantidad":codigoCantidad}
+            var valorInput = $(this).parent().parent().next().children().next().next().next().children().val()
+            var siguienteInput = $(this).parent().parent().next().children().next().next().next().children()
+            var clase = $(this).attr('class')
+            var separa = clase.split(' ')[1];
+            separa++
+            console.log(separa)
+            $.ajax({
+                type: "POST",
+                url: "views/ajax/ficcion.php",
+                data: datos,
+            })
+            .then(function(data){
+                
+                for (var i = 0; i < 50; i++) {
+
+                    if ($("#"+separa).css("display") == "none") {
+                        separa ++
+                        console.log("aumentando"+separa)
+                    }
+                    else{
+                        console.log("aumente"+separa)
+                        break
+                    }
+                    
+                }
+                 
+                $("."+separa).focus()
+                
+                
+
+
+
+                
+            })
+        }
+    })
+    $('.limpiar').on('click', function(){
+        swal({
+              title: "¿Seguro?",
+              text: "Las cantidades en DVD seran editados a 0",
+              icon: "warning",
+              buttons: true,
+              dangerMode: true,
+            })
+            .then((willDelete) => {
+              if (willDelete) {
+                const datos= {"limpiar":""}
+                $.ajax({
+                    type: "POST",
+                    url: "views/ajax/ficcion.php",
+                    data: datos,
+                })
+
+                .then(function(data){
+                    swal({
+                        title: "¡Bien!",
+                        text: "¡Las cantidades en DVD se han editado a 0",
+                        icon: "success",
+                    })
+                    .then((result) => {
+                        if (result) {
+                            window.location = "editarPeliculas"
+                        }else{
+                            window.location = "editarPeliculas"
+                        }
+                    })
+                     
+                })
+              } else {
+                swal("Las cantidades no se editaron");
+              }
+            });
+    })
+
 
     
 

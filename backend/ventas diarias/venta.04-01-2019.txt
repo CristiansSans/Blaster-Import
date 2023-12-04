@@ -1,0 +1,67 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+22227   /      MILLA 22    /        /    600 BsS
+22225   /      LA MONJA    /        /    600 BsS
+22226   /      EL JUSTICIERO 2    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22236   /      VENOM    /        /    600 BsS
+22238   /      JOHNNY ENGLISH 3.0    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22239   /      HALLOWEEN    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+12237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /    26681127    /    300 BsS
+22194   /      SEXY POR ACCIDENTE    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22224   /      ALPHA    /        /    600 BsS
+12000   /      DVD EN PROMOCION    /        /    300 BsS
+22201   /      DEADPOOL 2    /        /    600 BsS
+22211   /      RASCACIELOS    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+22187   /      RAMPAGE    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21239   /      COCO    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+22241   /      REPLICAS    /        /    600 BsS
+22237   /      ANIMALES FANTASTICOS 2 LOS CRIMINES DE GRINDELWALD    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+21208   /      BUSCANDO A DORY    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22226   /      EL JUSTICIERO 2    /        /    600 BsS
+21257   /      PIE PEQUEÑO    /        /    600 BsS
+21258   /      MOWGLI: LA LEYENDA DE LA SELVA    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+22225   /      LA MONJA    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21239   /      COCO    /        /    600 BsS
+22233   /      JUSTICIA IMPLACABLE    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /        /    600 BsS
+21258   /      MOWGLI: LA LEYENDA DE LA SELVA    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /        /    600 BsS
+12242   /      A CIEGAS    /    21099095    /    300 BsS
+11259   /      WIFI RALPH: ROMPE EL INTERNET    /    21099095    /    300 BsS
+12227   /      MILLA 22    /    21099095    /    300 BsS
+12226   /      EL JUSTICIERO 2    /    21099095    /    300 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22173   /      MAZE RUNNER 3: LA CURA MORTAL    /        /    600 BsS
+22242   /      A CIEGAS     /        /    600 BsS
+21215   /      MOANA    /        /    600 BsS
+22211   /      RASCACIELOS    /        /    600 BsS
+21219   /      JEFE EN PAÐALES    /        /    600 BsS
+21259   /      WIFI RALPH: ROMPE EL INTERNET    /        /    600 BsS
+22226   /      EL JUSTICIERO 2    /        /    600 BsS
+
+TOTAL==>36000 BsS

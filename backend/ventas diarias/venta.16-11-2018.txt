@@ -1,0 +1,18 @@
+Codigo       /       Nombre      /       Precio 
+
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22224   /      ALPHA    /    150 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22194   /      SEXY POR ACCIDENTE    /    150 BsS
+22173   /      MAZE RUNNER 3: LA CURA MORTAL    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+
+TOTAL==>2100 BsS

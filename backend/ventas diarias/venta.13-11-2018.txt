@@ -1,0 +1,14 @@
+Codigo       /       Nombre      /       Precio 
+
+22224   /      ALPHA    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22208   /      UPGRADE    /    150 BsS
+
+TOTAL==>1500 BsS

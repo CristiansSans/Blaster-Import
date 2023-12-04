@@ -1,0 +1,53 @@
+Codigo       /       Nombre      /       Precio 
+
+20288   /      PELICULAS DE DVD ADICIONALES    /    120 BsS
+21254   /      LOS INCREIBLES 2    /    120 BsS
+22226   /      EL JUSTICIERO 2    /    120 BsS
+22201   /      DEADPOOL 2    /    120 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    120 BsS
+22221   /      SIBERIA    /    120 BsS
+21238   /      PONY    /    120 BsS
+21254   /      LOS INCREIBLES 2    /    120 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    120 BsS
+22224   /      ALPHA    /    120 BsS
+21199   /      EL LIBRO DE LA SELVA    /    120 BsS
+21253   /      JOVENES TITANES    /    120 BsS
+22225   /      LA MONJA    /    120 BsS
+22221   /      SIBERIA    /    120 BsS
+21254   /      LOS INCREIBLES 2    /    120 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    120 BsS
+22226   /      EL JUSTICIERO 2    /    120 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    120 BsS
+22222   /      MI EX ES UN ESPIA    /    120 BsS
+22217   /      MENTES PODEROSAS    /    120 BsS
+22225   /      LA MONJA    /    120 BsS
+22217   /      MENTES PODEROSAS    /    120 BsS
+20989   /      LA NOCHE DE LAS BESTIAS 3 ELECCIONES    /    120 BsS
+22214   /      LA PURGA 4: EL INICIO    /    120 BsS
+22217   /      MENTES PODEROSAS    /    120 BsS
+20749   /      LA NOCHE DE LAS BESTIAS 2 ANARQUIA (LA PURGA 2    /    120 BsS
+22197   /      HOMBRE AL AGUA    /    120 BsS
+22203   /      TE ATRAPE    /    120 BsS
+22223   /      Christopher Robin    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+21243   /      CONDORITO    /    100 BsS
+22225   /      LA MONJA    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+21244   /      PETER RABBIT    /    100 BsS
+22222   /      MI EX ES UN ESPIA    /    100 BsS
+22221   /      SIBERIA    /    100 BsS
+22187   /      RAMPAGE    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22224   /      ALPHA    /    100 BsS
+22226   /      EL JUSTICIERO 2    /    100 BsS
+22225   /      LA MONJA    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22224   /      ALPHA    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22225   /      LA MONJA    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+
+TOTAL==>5460 BsS

@@ -1,0 +1,27 @@
+Codigo       /       Nombre      /       Precio 
+
+21254   /      LOS INCREIBLES 2    /    200 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    200 BsS
+22199   /      AVENGERS: INFINITY WAR    /    200 BsS
+22225   /      LA MONJA    /    200 BsS
+21254   /      LOS INCREIBLES 2    /    200 BsS
+22199   /      AVENGERS: INFINITY WAR    /    200 BsS
+21255   /      Christopher Robin    /    200 BsS
+22163   /      JUMANJI: BIENVENIDOS A LA JUNGLA    /    200 BsS
+22219   /      MEGALODON    /    200 BsS
+22233   /      JUSTICIA IMPLACABLE    /    200 BsS
+22227   /      MILLA 22    /    200 BsS
+22230   /      BUSCANDO    /    200 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    200 BsS
+22227   /      MILLA 22    /    200 BsS
+22201   /      DEADPOOL 2    /    200 BsS
+21254   /      LOS INCREIBLES 2    /    200 BsS
+21203   /      LA VIDA SECRETA DE LAS MASCOTAS    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+22219   /      MEGALODON    /    200 BsS
+22222   /      MI EX ES UN ESPIA    /    200 BsS
+22233   /      JUSTICIA IMPLACABLE    /    200 BsS
+22131   /      IT (ESO)    /    200 BsS
+22201   /      DEADPOOL 2    /    200 BsS
+
+TOTAL==>4600 BsS

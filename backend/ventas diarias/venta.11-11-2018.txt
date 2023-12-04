@@ -1,0 +1,5 @@
+Codigo       /       Nombre      /       Precio 
+
+10211   /      INCIDIOUS (La Noche del Demonio)    /    80 BsS
+
+TOTAL==>80 BsS

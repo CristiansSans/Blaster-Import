@@ -1,0 +1,54 @@
+Codigo       /       Nombre      /       Precio 
+
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+21193   /      HOTEL TRANSILVANIA 2    /    100 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+21245   /      VIAJE EN EL TIEMPO    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+21250   /      PLOEY    /    100 BsS
+22194   /      SEXY POR ACCIDENTE    /    100 BsS
+22188   /      NO ME LAS TOQUEN    /    100 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+22218   /      SLENDERMAN    /    100 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22171   /      EL PASAJERO    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+22194   /      SEXY POR ACCIDENTE    /    100 BsS
+22221   /      SIBERIA    /    100 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22187   /      RAMPAGE    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22217   /      MENTES PODEROSAS    /    100 BsS
+22211   /      RASCACIELOS    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22195   /      7 DIAS EN ENTEBBE    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22136   /      GEOTORMETA    /    100 BsS
+22185   /      THE HURRICANE HEIST    /    100 BsS
+21244   /      PETER RABBIT    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22222   /      MI EX ES UN ESPIA    /    100 BsS
+22181   /      PANTERA NEGRA    /    100 BsS
+22180   /      TITANES DEL PACIFICO 2: INSURRECCION    /    100 BsS
+20692   /      PAPITA MANI Y TOSTON    /    100 BsS
+22181   /      PANTERA NEGRA    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22201   /      DEADPOOL 2    /    100 BsS
+22215   /      HOTEL DE CRIMINALES    /    100 BsS
+22106   /      GUARDIANES DE LA GALAXIA 2    /    100 BsS
+
+TOTAL==>4600 BsS

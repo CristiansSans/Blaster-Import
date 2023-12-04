@@ -1,0 +1,84 @@
+Codigo       /       Nombre      /       Precio 
+
+22227   /      MILLA 22    /    150 BsS
+22216   /      ANTMAN & WASP    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22230   /      BUSCANDO    /    150 BsS
+22215   /      HOTEL DE CRIMINALES    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22224   /      ALPHA    /    150 BsS
+22216   /      ANTMAN & WASP    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22185   /      THE HURRICANE HEIST    /    150 BsS
+22207   /      A LA DERIVA    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22184   /      LOS EXTRAÐOS    /    150 BsS
+21247   /      SHERLOCK GNOMES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22187   /      RAMPAGE    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+22051   /      DOCTOR EXTRAÐO    /    150 BsS
+22177   /      TROPA DE HEROES    /    150 BsS
+22175   /      50 SOMBRAS LIBERADAS    /    150 BsS
+20813   /      50 SOMBRAS DE GREY    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22062   /      50 SOMBRAS MAS OSCURAS    /    150 BsS
+21239   /      COCO    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22131   /      IT (ESO)    /    150 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+12000   /      DVD EN PROMOCION    /    75 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22194   /      SEXY POR ACCIDENTE    /    150 BsS
+22197   /      HOMBRE AL AGUA    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21239   /      COCO    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22231   /      CRIATURAS NOCTURNAS    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22221   /      SIBERIA    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22185   /      THE HURRICANE HEIST    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22230   /      BUSCANDO    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+11254   /      LOS INCREIBLES 2    /    80 BsS
+22131   /      IT (ESO)    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22197   /      HOMBRE AL AGUA    /    150 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    150 BsS
+22224   /      ALPHA    /    150 BsS
+22173   /      MAZE RUNNER 3: LA CURA MORTAL    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+
+TOTAL==>11855 BsS

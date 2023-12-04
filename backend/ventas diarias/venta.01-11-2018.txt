@@ -1,0 +1,19 @@
+Codigo       /       Nombre      /       Precio 
+
+22222   /      MI EX ES UN ESPIA    /    100 BsS
+22225   /      LA MONJA    /    100 BsS
+22223   /      Christopher Robin    /    100 BsS
+22187   /      RAMPAGE    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22188   /      NO ME LAS TOQUEN    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22201   /      DEADPOOL 2    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+
+TOTAL==>1500 BsS

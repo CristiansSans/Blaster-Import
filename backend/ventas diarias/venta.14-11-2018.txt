@@ -1,0 +1,15 @@
+Codigo       /       Nombre      /       Precio 
+
+21253   /      JOVENES TITANES    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22195   /      7 DIAS EN ENTEBBE    /    150 BsS
+
+TOTAL==>1650 BsS

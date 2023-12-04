@@ -1,0 +1,548 @@
+
+body{
+	height: 100vh;
+    padding: 15px;
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.cardos{
+	background-color: rgba(47, 72, 88,0.6);;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	margin-top: -80px;
+	height: auto;
+	cursor:pointer;
+	border-radius: 0px 0px 10px 10px;
+}
+.caratula{
+	width: 100%;
+	height: 70vh;
+	border-radius: 0px 0px 10px 10px;
+	position: relative;
+}
+
+
+.listaPelis h3{
+	color: #F8F3F7;
+	margin-bottom: 0px;
+}
+.listaPelis p{
+	color: #F8F3F7;
+	margin-bottom: -110px;
+}
+.cardos p{
+	color: white;
+	margin: 5px;
+	text-align: center;
+	font-size: 20px;
+
+}
+
+.trailer{
+	width: 30%;
+	color: white;
+	border-radius: 0px 0px 10px 10px;
+	background-color: #0B2642;
+	border: none;
+	cursor: pointer;
+	left: 2%;
+	position: absolute;
+	top: 88%;
+	font-size: 25px;
+	padding: 10px;
+}
+.cardos button h4{
+	
+	color: #F8F3F7;
+}
+#video {
+      -webkit-box-shadow: 0 0 20px #000;
+      -moz-box-shadow: 0 0 20px #000;
+      width: 100%;
+      height: 700px;
+      overflow: none;
+      margin: 5% auto;
+}
+
+
+.tab {
+    float: left;
+    border: 2px solid #192D66;
+    background-color:  rgba(47, 72, 88,0.6);
+    width: 100%;
+    height: 45vh;
+    margin-top: 130px;
+    overflow-y:scroll;
+    border-radius: 0px 0px 10px 10px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    background-color:  rgba(47, 72, 88,0.6);
+    color: #F8F3F7;
+    padding: 12px 8px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+    border-bottom: 2px solid #0B2642;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #192D66;
+    color: #F8F3F7;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #192D66;
+    color: #F8F3F7;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+}
+.generos{
+
+	width: 100%;
+	float: right;
+	margin-top: -110px;
+}
+.generos h2{
+	color: #F8F3F7;
+	float: right;
+	padding: 0;
+
+}
+.todoOculto{
+    display: none;
+}
+
+
+.generos button{
+	float: right;
+	width: 59%;
+	border:none;
+	border: 2px solid #0B2642;
+	margin-top: 10px;
+	padding: 8px;
+	border-radius: 0px 0px 10px 10px;
+	cursor: pointer;
+	font-size: 20px;
+	text-align: left;
+ 	
+	background-color: rgba(47, 72, 88,0.8);
+	color: #F8F3F7;
+}
+.generos i{
+	margin-left: 10px;
+	float: right;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #192D66; 
+    border-radius: 0px 0px 10px 0px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #F8F3F7; 
+    border-radius: 0px 0px 10px 0px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.carrusel{
+	margin-top: -115px;
+	margin-bottom: -150px;
+}
+.carousel-item img{
+	height: 250px;
+}
+.botones{
+	margin-top: 10px;
+	width: 32.8%;
+	border:none;
+	border: 2px solid #0B2642;
+	margin-top: 10px;
+	padding: 10px;
+	border-radius: 0px 0px 10px 10px;
+	cursor: pointer;
+	font-size: 14px;
+	background-color: #0B2642;
+	color: #F8F3F7;
+}
+.icons i{
+	color: white;
+	font-size: 40px;
+}
+.icons p{
+	color: white;
+	font-size: 28px;
+
+}
+.icons span{
+	
+	font-size: 40px;
+	color: white;
+}
+.overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0; 
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+
+.ig{
+	background-color: rgba(47, 72, 88,0.8);
+	padding:10px;
+	border-radius: 10px;
+}
+.menu {
+    
+    cursor: pointer;
+
+}
+
+.menu h2{
+    text-align: center;
+    border-radius: 20px;
+}
+.menu .margen{
+	position: absolute;
+	top: 13%;
+	right: 300px;
+}
+.categories{
+	display: none;
+}
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #fff;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+}
+
+
+/* Full-width inputs */
+.inputsDescarga[type=text], .inputsDescarga[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: Roboto,sans-serif;
+
+    font-size: 20px !important;
+}
+
+/* Set a style for all buttons */
+.botondownload {
+    background-color: #113e6e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+	font-family: Roboto,sans-serif;
+}
+
+/* Add a hover effect for buttons */
+.botondownload:hover {
+    opacity: 0.8;
+}
+.botondownloadDos {
+    background-color: #113e6e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: Roboto,sans-serif;
+}
+
+/* Add a hover effect for buttons */
+.botondownloadDos:hover {
+    opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
+
+/* The "Forgot password" text */
+.psw {
+    font-family: Roboto,sans-serif;
+    padding-top: 16px;
+    color: #fff !important;
+    font-size: 20px !important;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+
+.descargasForm{
+	margin-top: 15%;
+	border: 2px solid #113e6e;
+}
+.teclado{
+	position: absolute;
+	top: 80%;
+	left: 22%;
+	border: 2px solid #113e6e;
+	padding: 10px;
+}
+.teclado button{
+	background-color: #113e6e;
+	color: white;
+	padding: 22px 28px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    font-family: Roboto,sans-serif;
+    font-size: 20px;
+}
+.teclado button:hover {
+    opacity: 0.8;
+}
+.clienteOcultar{
+	display: none;
+	font-family: Roboto,sans-serif;
+}
+.cardDescarga {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: white;
+    border: 5px solid #0b2642;
+    margin-top: 20px;
+}
+
+.title {
+    color: grey;
+    font-size: 18px;
+}
+
+.botonDescargar {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    background-color: #113e6e;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    font-family: Roboto,sans-serif;
+}
+
+
+
+.botonDescargar:hover {
+    opacity: 0.7;
+}
+
+#modalNota {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 2;
+    cursor: pointer;
+}
+
+#notaText{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+#notaText2{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+.loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+#overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 2;
+    cursor: pointer;
+}
+
+#text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+#overlayy {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.9);
+    z-index: 2;
+    cursor: pointer;
+}
+
+#textt{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 50px;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+}
+
+.trailerContenido {
+    z-index: 10000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.9);
+    color: #f1f1f1;
+    width: 100%;
+    display: none;
+}
+
+.descargas button{
+    background-color: rgba(47, 72, 88,0.6); 
+    float:right;
+    width: 60%;
+    height: 80px;
+    font-size: 28px;
+    margin-top: -12px;
+}
+.nuevas{
+    float: right;
+}
+
+.nuevasGenero{
+    float: right;
+}
+.botonesDescarga{
+    margin-top: 10px;
+    width: 15%;
+    border:none;
+    border: 2px solid white;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgba(47, 72, 88,0.6); 
+    color: #F8F3F7;
+}
+
+.flecha{
+    color: white;
+    font-size: 80px;
+    position: absolute;
+    top: 90%;
+    left: 5%;
+    display: none;
+}

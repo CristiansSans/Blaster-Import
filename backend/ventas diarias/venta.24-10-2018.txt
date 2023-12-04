@@ -1,0 +1,9 @@
+Codigo       /       Nombre      /       Precio 
+
+0   /      La prueba de dios    /    85 BsS
+0   /      La prueba de dios    /    85 BsS
+0   /      La prueba de dios    /    85 BsS
+0   /      La prueba de dios    /    85 BsS
+0   /      La prueba de dios    /    85 BsS
+
+TOTAL==>425 BsS

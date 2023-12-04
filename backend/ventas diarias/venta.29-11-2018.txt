@@ -1,0 +1,19 @@
+Codigo       /       Nombre      /       Precio 
+
+21238   /      PONY    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+21245   /      VIAJE EN EL TIEMPO    /    200 BsS
+22229   /      EL DEPREDADOR    /    200 BsS
+22046   /      ANIMALES FANTASTICOS Y DONDE ENCONTRALOS    /    200 BsS
+21251   /      NEXT GEN    /    200 BsS
+22222   /      MI EX ES UN ESPIA    /    200 BsS
+22224   /      ALPHA    /    200 BsS
+22116   /      TRASNFORMERS EL ULTIMO CABALLERO    /    200 BsS
+22201   /      DEADPOOL 2    /    200 BsS
+21253   /      JOVENES TITANES    /    200 BsS
+12000   /      DVD EN PROMOCION    /    100 BsS
+12000   /      DVD EN PROMOCION    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    200 BsS
+20813   /      50 SOMBRAS DE GREY    /    200 BsS
+
+TOTAL==>2800 BsS

@@ -1,0 +1,83 @@
+Codigo       /       Nombre      /       Precio 
+
+22192   /      EL ALMA DE LA FIESTA    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+22071   /      ENCARNADOS    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22221   /      SIBERIA    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22197   /      HOMBRE AL AGUA    /    100 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22201   /      DEADPOOL 2    /    100 BsS
+22203   /      TE ATRAPE    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22180   /      TITANES DEL PACIFICO 2: INSURRECCION    /    100 BsS
+21241   /      FERDINAND OLE    /    100 BsS
+22201   /      DEADPOOL 2    /    100 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    100 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+21251   /      NEXT GEN    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22146   /      JUEGOS MACABROS 8: JIGSAW    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22074   /      LOGAN    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22176   /      JUEGO DE LADRONES    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+22218   /      SLENDERMAN    /    100 BsS
+20766   /      ANABELLE    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+22222   /      MI EX ES UN ESPIA    /    100 BsS
+22217   /      MENTES PODEROSAS    /    100 BsS
+22216   /      ANTMAN & WASP    /    100 BsS
+22199   /      AVENGERS: INFINITY WAR    /    100 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+22208   /      UPGRADE    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22219   /      MEGALODON    /    100 BsS
+22214   /      LA PURGA 4: EL INICIO    /    100 BsS
+21239   /      COCO    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+22147   /      THOR RAGNAROK    /    100 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    100 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22222   /      MI EX ES UN ESPIA    /    100 BsS
+21219   /      JEFE EN PAÐALES    /    100 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+12000   /      DVD EN PROMOCION    /    50 BsS
+
+TOTAL==>7650 BsS

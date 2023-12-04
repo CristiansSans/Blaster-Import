@@ -1,0 +1,11 @@
+Codigo       /       Nombre      /       Precio 
+21254   /      LOS INCREIBLES 2    /    100 BsS
+22194   /      SEXY POR ACCIDENTE    /    100 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    100 BsS
+22180   /      TITANES DEL PACIFICO 2: INSURRECCION    /    100 BsS
+21254   /      LOS INCREIBLES 2    /    100 BsS
+21253   /      JOVENES TITANES    /    100 BsS
+22214   /      LA PURGA 4: EL INICIO    /    100 BsS
+21242   /      MAZINGER Z: INFINITY    /    100 BsS
+
+TOTAL==>800 BsS

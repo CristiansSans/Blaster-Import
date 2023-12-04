@@ -1,0 +1,6 @@
+Codigo       /       Nombre      /       Precio 
+
+22216   /      ANTMAN & WASP    /    200 BsS
+21255   /      Christopher Robin    /    200 BsS
+
+TOTAL==>400 BsS

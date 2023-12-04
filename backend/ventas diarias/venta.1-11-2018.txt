@@ -1,0 +1,5 @@
+Codigo       /       Nombre      /       Precio 
+
+
+
+TOTAL==>800 BsS

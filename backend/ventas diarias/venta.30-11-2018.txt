@@ -1,0 +1,17 @@
+Codigo       /       Nombre      /       Precio 
+
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    200 BsS
+22233   /      JUSTICIA IMPLACABLE    /    200 BsS
+22227   /      MILLA 22    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+24045   /      JUEGO DE TRONOS 6 TEMPORADA    /    200 BsS
+24045   /      JUEGO DE TRONOS 6 TEMPORADA    /    200 BsS
+21253   /      JOVENES TITANES    /    200 BsS
+22179   /      WINCHESTER LA CASA DE LOS ESPIRITUS    /    200 BsS
+21241   /      FERDINAND OLE    /    200 BsS
+22226   /      EL JUSTICIERO 2    /    200 BsS
+22221   /      SIBERIA    /    200 BsS
+
+TOTAL==>2600 BsS

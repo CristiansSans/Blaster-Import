@@ -1,0 +1,77 @@
+Codigo       /       Nombre      /       Precio 
+
+22225   /      LA MONJA    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+21254   /      LOS INCREIBLES 2    /    300 BsS
+12000   /      DVD EN PROMOCION    /    150 BsS
+22234   /      PRIMER HOMBRE EN LA LUNA    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+21253   /      JOVENES TITANES    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22203   /      TE ATRAPE    /    300 BsS
+21253   /      JOVENES TITANES    /    300 BsS
+22194   /      SEXY POR ACCIDENTE    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22218   /      SLENDERMAN    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+22230   /      BUSCANDO    /    300 BsS
+22230   /      BUSCANDO    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22227   /      MILLA 22    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22085   /      JOHN WICK 2    /    300 BsS
+22203   /      TE ATRAPE    /    300 BsS
+21201   /      ZOOTOPIA    /    300 BsS
+21247   /      SHERLOCK GNOMES    /    300 BsS
+21255   /      Christopher Robin    /    300 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22216   /      ANTMAN & WASP    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22234   /      PRIMER HOMBRE EN LA LUNA    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+21255   /      Christopher Robin    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22175   /      50 SOMBRAS LIBERADAS    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22142   /      LINEA MORTAL    /    300 BsS
+21254   /      LOS INCREIBLES 2    /    300 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    300 BsS
+22187   /      RAMPAGE    /    300 BsS
+22229   /      EL DEPREDADOR    /    300 BsS
+22216   /      ANTMAN & WASP    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22211   /      RASCACIELOS    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22227   /      MILLA 22    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22217   /      MENTES PODEROSAS    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+22203   /      TE ATRAPE    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22229   /      EL DEPREDADOR    /    300 BsS
+22219   /      MEGALODON    /    300 BsS
+22227   /      MILLA 22    /    300 BsS
+22230   /      BUSCANDO    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22213   /      SICARIO 2: DIA DEL SOLDADO    /    300 BsS
+22232   /      QUIEN MATO A LOS PUPPETS?    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+
+TOTAL==>21750 BsS

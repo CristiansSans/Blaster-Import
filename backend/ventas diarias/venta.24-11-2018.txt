@@ -1,0 +1,12 @@
+Codigo       /       Nombre      /       Precio 
+
+12000   /      DVD EN PROMOCION    /    100 BsS
+22233   /      MATAR O MORIR    /    200 BsS
+22227   /      MILLA 22    /    200 BsS
+22226   /      EL JUSTICIERO 2    /    200 BsS
+22225   /      LA MONJA    /    200 BsS
+22062   /      50 SOMBRAS MAS OSCURAS    /    200 BsS
+22175   /      50 SOMBRAS LIBERADAS    /    200 BsS
+20813   /      50 SOMBRAS DE GREY    /    200 BsS
+
+TOTAL==>1500 BsS

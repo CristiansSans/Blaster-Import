@@ -1,0 +1,17 @@
+Codigo       /       Nombre      /       Precio 
+
+21253   /      JOVENES TITANES    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+12000   /      DVD EN PROMOCION    /    75 BsS
+21249   /      AQUAMAN LEGO    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20749   /      LA NOCHE DE LAS BESTIAS 2 ANARQUIA (LA PURGA 2    /    150 BsS
+22231   /      CRIATURAS NOCTURNAS    /    150 BsS
+20989   /      LA NOCHE DE LAS BESTIAS 3 ELECCIONES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20598   /      LA PURGA    /    150 BsS
+
+TOTAL==>1875 BsS

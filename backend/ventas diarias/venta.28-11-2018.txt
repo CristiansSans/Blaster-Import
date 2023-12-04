@@ -1,0 +1,19 @@
+Codigo       /       Nombre      /       Precio 
+
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    200 BsS
+22062   /      50 SOMBRAS MAS OSCURAS    /    200 BsS
+22211   /      RASCACIELOS    /    200 BsS
+22179   /      WINCHESTER LA CASA DE LOS ESPIRITUS    /    200 BsS
+22222   /      MI EX ES UN ESPIA    /    200 BsS
+22231   /      CRIATURAS NOCTURNAS    /    200 BsS
+21203   /      LA VIDA SECRETA DE LAS MASCOTAS    /    200 BsS
+21253   /      JOVENES TITANES    /    200 BsS
+22199   /      AVENGERS: INFINITY WAR    /    200 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    200 BsS
+21255   /      Christopher Robin    /    200 BsS
+22229   /      EL DEPREDADOR    /    200 BsS
+22230   /      BUSCANDO    /    200 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    200 BsS
+
+TOTAL==>3000 BsS

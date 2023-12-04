@@ -1,0 +1,14 @@
+Codigo       /       Nombre      /       Precio 
+
+22221   /      SIBERIA    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+21247   /      SHERLOCK GNOMES    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22218   /      SLENDERMAN    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22202   /      EL STAND DE LOS BESOS    /    150 BsS
+
+TOTAL==>1500 BsS

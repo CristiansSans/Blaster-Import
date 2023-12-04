@@ -1,0 +1,47 @@
+Codigo       /       Nombre      /       Precio 
+
+22199   /      AVENGERS: INFINITY WAR    /    200 BsS
+21255   /      Christopher Robin    /    200 BsS
+21254   /      LOS INCREIBLES 2    /    200 BsS
+21254   /      LOS INCREIBLES 2    /    200 BsS
+22227   /      MILLA 22    /    200 BsS
+22224   /      ALPHA    /    200 BsS
+22219   /      MEGALODON    /    200 BsS
+22194   /      SEXY POR ACCIDENTE    /    200 BsS
+21254   /      LOS INCREIBLES 2    /    200 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    200 BsS
+12222   /      MI EX ES UN ESPIA    /    120 BsS
+21253   /      JOVENES TITANES    /    200 BsS
+12208   /      UPGRADE    /    120 BsS
+12228   /      MISION IMPOSIBLE: REPERCUCION    /    120 BsS
+12219   /      MEGALODON    /    120 BsS
+12233   /      JUSTICIA IMPLACABLE    /    120 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    200 BsS
+22194   /      SEXY POR ACCIDENTE    /    200 BsS
+22211   /      RASCACIELOS    /    200 BsS
+22226   /      EL JUSTICIERO 2    /    200 BsS
+22225   /      LA MONJA    /    200 BsS
+21232   /      MI VILLANO FAVORITO 3    /    200 BsS
+21255   /      Christopher Robin    /    200 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    200 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    200 BsS
+22201   /      DEADPOOL 2    /    200 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    200 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    200 BsS
+21239   /      COCO    /    200 BsS
+22233   /      MATAR O MORIR    /    200 BsS
+22194   /      SEXY POR ACCIDENTE    /    200 BsS
+22175   /      50 SOMBRAS LIBERADAS    /    200 BsS
+22218   /      SLENDERMAN    /    200 BsS
+22215   /      HOTEL DE CRIMINALES    /    200 BsS
+22062   /      50 SOMBRAS MAS OSCURAS    /    200 BsS
+22226   /      EL JUSTICIERO 2    /    200 BsS
+22226   /      EL JUSTICIERO 2    /    200 BsS
+21253   /      JOVENES TITANES    /    200 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    200 BsS
+12000   /      DVD EN PROMOCION    /    100 BsS
+22225   /      LA MONJA    /    200 BsS
+22233   /      MATAR O MORIR    /    200 BsS
+22219   /      MEGALODON    /    200 BsS
+
+TOTAL==>8100 BsS

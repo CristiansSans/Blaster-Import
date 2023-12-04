@@ -1,0 +1,37 @@
+Codigo       /       Nombre      /       Precio 
+
+21254   /      LOS INCREIBLES 2    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22236   /      VENOM    /    300 BsS
+21254   /      LOS INCREIBLES 2    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+22197   /      HOMBRE AL AGUA    /    300 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    300 BsS
+21253   /      JOVENES TITANES    /    300 BsS
+21043   /      EL REY LEON    /    300 BsS
+22186   /      READY PLAYER ONE    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22235   /      LA CASA CON UN RELOJ EN LAS PAREDES    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22236   /      VENOM    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+21255   /      Christopher Robin    /    300 BsS
+22197   /      HOMBRE AL AGUA    /    300 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+22197   /      HOMBRE AL AGUA    /    300 BsS
+22219   /      MEGALODON    /    300 BsS
+22201   /      DEADPOOL 2    /    300 BsS
+21208   /      BUSCANDO A DORY    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22229   /      EL DEPREDADOR    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22211   /      RASCACIELOS    /    300 BsS
+21244   /      PETER RABBIT    /    300 BsS
+21213   /      MIS PEREGREEN Y LOS NIÐOS PECULIARES    /    300 BsS
+
+TOTAL==>9900 BsS

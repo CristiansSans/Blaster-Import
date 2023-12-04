@@ -1,0 +1,60 @@
+Codigo       /       Nombre      /       Precio 
+
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+12228   /      MISION IMPOSIBLE: REPERCUCION    /    80 BsS
+12230   /      BUSCANDO    /    80 BsS
+11254   /      LOS INCREIBLES 2    /    80 BsS
+12227   /      MILLA 22    /    80 BsS
+12226   /      EL JUSTICIERO 2    /    80 BsS
+12219   /      MEGALODON    /    80 BsS
+22219   /      MEGALODON    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22231   /      CRIATURAS NOCTURNAS    /    150 BsS
+22221   /      SIBERIA    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22185   /      THE HURRICANE HEIST    /    150 BsS
+22231   /      CRIATURAS NOCTURNAS    /    150 BsS
+22230   /      BUSCANDO    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21245   /      VIAJE EN EL TIEMPO    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22179   /      WINCHESTER LA CASA DE LOS ESPIRITUS    /    150 BsS
+21239   /      COCO    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22211   /      RASCACIELOS    /    150 BsS
+22208   /      UPGRADE    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22173   /      MAZE RUNNER 3: LA CURA MORTAL    /    150 BsS
+22186   /      READY PLAYER ONE    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+22147   /      THOR RAGNAROK    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+21239   /      COCO    /    150 BsS
+
+TOTAL==>7980 BsS

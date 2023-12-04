@@ -1,0 +1,67 @@
+Codigo       /       Nombre      /       Precio 
+
+22219   /      MEGALODON    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22197   /      HOMBRE AL AGUA    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22197   /      HOMBRE AL AGUA    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22224   /      ALPHA    /    150 BsS
+22216   /      ANTMAN & WASP    /    150 BsS
+21251   /      NEXT GEN    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22187   /      RAMPAGE    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+22221   /      SIBERIA    /    150 BsS
+21251   /      NEXT GEN    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+22207   /      A LA DERIVA    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22223   /      Christopher Robin    /    150 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22179   /      WINCHESTER LA CASA DE LOS ESPIRITUS    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22221   /      SIBERIA    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22209   /      EL LEGADO DEL DIABLO    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22217   /      MENTES PODEROSAS    /    150 BsS
+22118   /      ANNABELLE 2 LA CREACION    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22179   /      WINCHESTER LA CASA DE LOS ESPIRITUS    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+22221   /      SIBERIA    /    150 BsS
+22187   /      RAMPAGE    /    150 BsS
+22163   /      JUMANJI: BIENVENIDOS A LA JUNGLA    /    150 BsS
+22119   /      SPIDERMAN REGRESO A CASA    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+21251   /      NEXT GEN    /    150 BsS
+22180   /      TITANES DEL PACIFICO 2: INSURRECCION    /    150 BsS
+20973   /      CAPITAN AMERICA CIVIL WAR    /    150 BsS
+
+TOTAL==>9450 BsS

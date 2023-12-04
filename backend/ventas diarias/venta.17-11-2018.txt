@@ -1,0 +1,46 @@
+Codigo       /       Nombre      /       Precio 
+
+22225   /      LA MONJA    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+12000   /      DVD EN PROMOCION    /    75 BsS
+22221   /      SIBERIA    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21239   /      COCO    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22207   /      A LA DERIVA    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22202   /      EL STAND DE LOS BESOS    /    150 BsS
+22204   /      OCEANS 8: LAS ESTAFADORAS    /    150 BsS
+22197   /      HOMBRE AL AGUA    /    150 BsS
+22216   /      ANTMAN & WASP    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22225   /      LA MONJA    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+22200   /      JURASSIC WORLD 2 EL REINO CAIDO    /    150 BsS
+22201   /      DEADPOOL 2    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    150 BsS
+22142   /      LINEA MORTAL    /    150 BsS
+22163   /      JUMANJI: BIENVENIDOS A LA JUNGLA    /    150 BsS
+22209   /      EL LEGADO DEL DIABLO    /    150 BsS
+22209   /      EL LEGADO DEL DIABLO    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22203   /      TE ATRAPE    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+22227   /      MILLA 22    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+22219   /      MEGALODON    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+
+TOTAL==>6225 BsS

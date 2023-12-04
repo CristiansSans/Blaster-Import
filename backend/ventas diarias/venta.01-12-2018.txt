@@ -1,0 +1,52 @@
+Codigo       /       Nombre      /       Precio 
+
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22221   /      SIBERIA    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22201   /      DEADPOOL 2    /    300 BsS
+22220   /      PAPITA, MANI, TOSTON: SEGUNDA BASE    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22214   /      LA PURGA 4: EL INICIO    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22236   /      VENOM    /    300 BsS
+22219   /      MEGALODON    /    300 BsS
+22146   /      JUEGOS MACABROS 8: JIGSAW    /    300 BsS
+21252   /      HOTEL TRANSILVANIA 3    /    300 BsS
+21254   /      LOS INCREIBLES 2    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+20692   /      PAPITA MANI Y TOSTON    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+21235   /      CARS 3    /    300 BsS
+22219   /      MEGALODON    /    300 BsS
+21254   /      LOS INCREIBLES 2    /    300 BsS
+20792   /      JOHN WICK    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+22187   /      RAMPAGE    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22224   /      ALPHA    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+22217   /      MENTES PODEROSAS    /    300 BsS
+22186   /      READY PLAYER ONE    /    300 BsS
+22214   /      LA PURGA 4: EL INICIO    /    300 BsS
+20749   /      LA NOCHE DE LAS BESTIAS 2 ANARQUIA (LA PURGA 2    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22233   /      JUSTICIA IMPLACABLE    /    300 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    300 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    300 BsS
+22229   /      EL DEPREDADOR    /    300 BsS
+22227   /      MILLA 22    /    300 BsS
+21253   /      JOVENES TITANES    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+22226   /      EL JUSTICIERO 2    /    300 BsS
+22225   /      LA MONJA    /    300 BsS
+22218   /      SLENDERMAN    /    300 BsS
+22216   /      ANTMAN & WASP    /    300 BsS
+21219   /      JEFE EN PAÐALES    /    300 BsS
+22219   /      MEGALODON    /    300 BsS
+
+TOTAL==>14400 BsS

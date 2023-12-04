@@ -1,0 +1,20 @@
+Codigo       /       Nombre      /       Precio 
+
+22225   /      LA MONJA    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+21255   /      Christopher Robin    /    150 BsS
+20288   /      PELICULAS DE DVD ADICIONALES    /    150 BsS
+21253   /      JOVENES TITANES    /    150 BsS
+22229   /      EL DEPREDADOR    /    150 BsS
+21254   /      LOS INCREIBLES 2    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22222   /      MI EX ES UN ESPIA    /    150 BsS
+22228   /      MISION IMPOSIBLE: REPERCUCION    /    150 BsS
+22226   /      EL JUSTICIERO 2    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+22051   /      DOCTOR EXTRAÐO    /    150 BsS
+22199   /      AVENGERS: INFINITY WAR    /    150 BsS
+
+TOTAL==>2400 BsS

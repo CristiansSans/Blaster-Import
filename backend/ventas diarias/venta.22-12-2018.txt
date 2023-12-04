@@ -1,0 +1,7 @@
+Codigo       /       Nombre     /       Cliente Cedula       /       Precio 
+
+0   /      BLURAY REGALO MITAD DE PRECIO    /        /    85 BsS
+2   /      asda    /        /    85 BsS
+11254   /      LOS INCREIBLES 2    /    25430435    /    1200 BsS
+
+TOTAL==>1370 BsS
